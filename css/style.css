@@ -4,13 +4,7 @@
     
 }
 
-.contenedor{
-    
-}
 
-.parte{
-    
-}
 
 body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzKE3NkLmKJ85IkaVjbEQjjCTwpkHxYirAg&s);
@@ -21,9 +15,9 @@ body{
     height: 50rem;
     width: 960px;
     margin: 0 auto;
-    background-image: url(../img/ani/team.png);
-    background-repeat: no-repeat;
-    animation: canvi 12s infinite line;
+    animation: canvi 12s infinite linear;
+    background-repeat: no-repeat
+    
 }
 
 
