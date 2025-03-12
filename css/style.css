@@ -23,7 +23,7 @@ body{
     margin: 0 auto;
     background-image: url(../img/ani/team.png);
     background-repeat: no-repeat;
-    background: ;
+    animation: canvi 12s infinite line;
 }
 
 
@@ -69,7 +69,7 @@ h1{
     margin: 20px 50px 0 50px;
     background-color: white;
     margin: 20px 90px 20px -13px;
-    animation: canvi 12s infinite line;
+   
     
 
 }
