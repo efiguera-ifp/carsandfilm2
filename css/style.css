@@ -126,6 +126,8 @@ p{
 .car:hover{
 
     opacity: 50%;
+    rotate: 180deg;
+    transition: 0.5;
 }
 
 .grey{
