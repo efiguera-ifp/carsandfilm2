@@ -134,6 +134,20 @@ p{
     color: grey;
 }
 
+@keyframes canvi{
+    0%{background-image: url(../img/back.png);}
+    12%{background-image: url(../img/bean.png);}
+    25%{background-image: url(../img/bond.png);}
+    32%{background-image: url(../img/break.png);}
+    45%{background-image: url(../img/ghost.png);}
+    52%{background-image: url(../img/pulp.png);}
+    65%{background-image: url(../img/rider.png);}
+    72%{background-image: url(../img/ghost.png);}
+    85%{background-image: url(../img/taxi.png);}
+    100%{background-image: url(../img/team.png);}
+    
+}
+
 
 
 
